@@ -1,0 +1,9 @@
+.directory
+
+/node_modules
+/venv
+/virtualenv
+
+.git
+.pyc
+__pycache__
